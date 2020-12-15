@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Regina, a recent CS graduate and iOS developer currently based in Vancouver, CA.
+I am recent CS graduate and iOS developer currently based in Vancouver, CA.
 
 Things I care about 💖: coding with empathy, creating great user experiences, and fostering diversity and inclusion in tech.
