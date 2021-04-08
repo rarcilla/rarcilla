@@ -1,4 +1,4 @@
-### Hi, I'm Regina 👋👩🏻‍💻
+### Hi, I'm Regina 👋
 
 <!--
 **rarcilla/rarcilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a recent CS graduate and iOS developer currently based in Vancouver, CA.
+I am an iOS Developer currently based in Vancouver, Canada.
 
-Things I care about 💖: coding with empathy, creating great user experiences, and fostering diversity and inclusion in tech.
+### Get in touch 💌
+- [Twitter](https://twitter.com/twiszler)
+- [Medium](https://rarcilla.medium.com/)
+- [LinkedIn](https://www.linkedin.com/in/regina-arcilla/)
