@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Canadian iOS Developer currently based in Germany.
+I am a Canadian American iOS Developer currently based in Germany.
 
 ### Get in touch 💌
 - [Twitter](https://twitter.com/twiszler)
