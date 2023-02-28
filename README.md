@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 I am a Canadian American iOS Developer currently based in Germany.
 
 ### Get in touch 💌
-- [Twitter](https://twitter.com/twiszler)
 - [Medium](https://rarcilla.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/regina-arcilla/)
