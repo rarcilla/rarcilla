@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Canadian American iOS Developer currently based in Vancouver, Canada.
-
 ### Get in touch 💌
 - [Medium](https://rarcilla.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/regina-arcilla/)
